@@ -1,5 +1,5 @@
-# Tawakkalna Fake Clone
-### Tawakkalna App Page
+# Weather Change Applicaiton
+### The Landing Page
 
 ![N|Solid](https://i.ibb.co/54rPSdj/Weather-Application-Gif.gif)
 
