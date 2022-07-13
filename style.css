@@ -1,0 +1,17 @@
+body { font-family: 'Lato' , sans-serif; overflow-x: hidden;}
+
+.banner-weather { height: 100%; width: 100vw; background: linear-gradient(#6429cb58 , #0917d676) , url(../../images/mohamed-ahsan-UQXF_w83Z5s-unsplash.jpg) center / cover no-repeat;
+    color: #fff; font-weight: bold;}
+svg { width: 10%;}
+
+.weath-info-head { font-size: 18px; letter-spacing: 2px; font-weight: bold;}
+
+.active-weather { background: rgba(228, 228, 228, 0.135); padding: 30px; transform: translateY(-30px);}
+.loc-icon { width: 3%;}
+.loocation-div:hover { background: #e2e4ea57; padding: 3px; color: #222;}
+.weather-current:hover { background: rgba(228, 228, 228, 0.135); padding: 30px; transform: translateY(-10px);}
+.cu-mx-1 { margin: 0 3px;}
+.hide { visibility: hidden; opacity: 0; display: none;}
+.show-me { visibility: visible; opacity: 1; display: flex;}
+.generated-list li a:hover{ background: #1b54fc; padding: 4px; color: #fff;}
+/* .weather-current:hover .active-weather { background: transparent; padding: 0;} */
